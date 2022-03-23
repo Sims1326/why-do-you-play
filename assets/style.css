@@ -1,1 +1,8 @@
-/*here are details*/
+/*banner*/
+.hero {
+    background-image: url("../assets/why\ do\ you\ game\ hero.png");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
