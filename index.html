@@ -5,9 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Why do you play?</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
     <link rel="stylesheet" href="./assets/style.css" />
+    
 </head>
-<body>
+
+
     
 <!-- hero start -->
 <section class="hero">
@@ -17,10 +21,25 @@
 <section id="game-input" class="body">
     <h1 class="header">Choose a Game
     <p>
-     <input type="text" placeholder="Game" name="game" id="game" class="form-input" />
-     <button type="submit">
+     <input type="text" placeholder="Game" name="game" id="gameInput" class="form-input" />
+     <button id = submit type="submit">
         Submit
       </button>
+
+    <container class="attrs">
+      <div class = "column">
+        <div id="dev" >Developer</div>
+      </div>  
+      <div class = "column">
+        <div id="genre" > Genre</div>
+      </div>  
+      <div class = "column">
+        <div id= "meta" > Metacritic Score</div>
+      </div>  
+      <!-- <div class = "column">
+        <div id= "release" >Release Date</div>
+      </div>  -->
+    </container>
     </p>
     </h1>
   </section>
@@ -32,7 +51,7 @@
       &copy; 2022 Cool Humans
     </div>
   </footer>
+  <script src="assets/index.js"></script>
 
-</body>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 </html>

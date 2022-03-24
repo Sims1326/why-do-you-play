@@ -1,64 +1,74 @@
 /*banner*/
 .hero {
-    background-image: url("../assets/why\ do\ you\ game\ hero.png");
-    height: 600px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
+  background-image: url("../assets/why\ do\ you\ game\ hero.png");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
 }
 
 /* */
-.header{
-color: darkblue;
-text-align: center;
-font-size: 18px;
-
+.header {
+  color: darkblue;
+  text-align: center;
+  font-size: 18px;
 }
 
 /* use this for video game hero,input  */
 
-.center{
-    text-align: center;
-    border: 3px; color: darkblue;
+.center {
+  text-align: center;
+  border: 3px;
+  color: darkblue;
+}
+
+.attrs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.column {
+  font-weight: bold;
 }
 
 /*input games*/
-.border{
-outline-style: solid;color: darkblue;
+.border {
+  outline-style: solid;
+  color: darkblue;
 }
 
 /*run code*/
-.run{
-border: 3px; color: darkblue;
-position:absolute;
-bottom: 50px;
-right:50px;
-font-size: 18px;
+.run {
+  border: 3px;
+  color: darkblue;
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+  font-size: 18px;
 }
-
 
 /*attribute  photo*/
 
 /* body (middle section) */
-.body{
- margin: 0;
-font-family:Arial, Helvetica, sans-serif
+.body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-
-
 /* Footer Section */
-.footer{
-background-color: darkblue;
-padding: 10px;
-height: 200px;
+.footer {
+  background-color: darkblue;
+  padding: 10px;
+  height: 200px;
 }
 
 /*attribute  photo*/
 
-.attribute{
-    border: 3px; color: darkblue;
-    bottom: 50px;
-    left:50px;
-    font-size: 18px;
+.attribute {
+  border: 3px;
+  color: darkblue;
+  bottom: 50px;
+  left: 50px;
+  font-size: 18px;
 }
