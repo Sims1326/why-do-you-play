@@ -54,13 +54,16 @@
 .body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  padding: 200px;
+  height: 100px;
 }
 
 /* Footer Section */
 .footer {
-  background-color: darkblue;
+  background-color: purple;
   padding: 10px;
-  height: 200px;
+  height: 50px;
+  color: white;
 }
 
 /*attribute  photo*/
