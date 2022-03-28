@@ -1,7 +1,7 @@
 # Why Do You Play?
 ## Designed by Anthony Sims, Abe Shaw, and Gillian Perry (Talley)
 
-An app resource for gamers who want to learn more about their own gaming habits (genre, publisher, etc.).
+An app resource for gamers who want to learn more about their own gaming habits. When you type in your favorite game and press submit then you will be given 3 different categories. First the publisher,Genre and metric score rating.
 
 View the presentation on the app here: https://docs.google.com/presentation/d/1KjpWaLitGyU3SJDHch7wpM2r28F0TpmqIF6-azPCyOg/edit?usp=sharing
 
