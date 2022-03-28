@@ -8,3 +8,4 @@ Access the deployed application here (currently not available due to repository 
 
 <img width="763" alt="Screen Shot 2022-03-27 at 7 00 03 PM" src="https://user-images.githubusercontent.com/93402175/160304954-8ace6ce3-e4a7-4e73-9b7d-f19e0c8ef6d0.png">
 
+Deployed link: https://sims1326.github.io/why-do-you-play/
